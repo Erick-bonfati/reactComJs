@@ -1,0 +1,27 @@
+Aqui vamos passar como fazemos para iniciar uma aplicação com REACT
+
+Como é um corportamento padrão que vamos usar em quase todo projeto para iniciar nossa aplicação, vamos realizar um passo a passo
+de como iniciar uma aplicação com REACT:
+
+NPX = Gerenciador de pacotes do NODE
+
+NPM = nós usamos para rodar coisas locais e npx para rodar scripts de forma remota
+
+1 - npx create react-app (nomeApp)= cria uma aplicação do REACT
+
+2 - Após criar a aplicação, podemos usar o 'npm start'
+
+Feito isso, agora vamos criar uma pasta para colocar todos nossos componentes,o que são estes componentes?
+
+Eles são todas os codigos e comandos HTML/CSS que vamos utilizar na nossa aplicação, lá nós vamos separar cada seção do HTML
+por pastas separadas!
+
+Todos nossos componentes, devem iniciar com uma Letra Maíscula
+
+A pasta publica sempre ficara visivel para o CLIENTE e essa pasta é refenciada pela raiz, que é " / " (' /imagens/img.png ')
+
+Componentes são Funções, então podemos passar parametros para qualquer função
+
+React.strictMode = serve para fazer um tipo de validação de erro no nosso código, ele meio que faz a validação do código duas vezes
+
+CONTROL + SPACE = da dicas para importar seus componentes
